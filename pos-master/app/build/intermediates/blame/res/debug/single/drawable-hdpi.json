@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "S:\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "S:\\pos-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "S:\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_overflow.png",
+        "source": "S:\\pos-master\\app\\src\\main\\res\\drawable-hdpi\\ic_action_overflow.png"
+    }
+]

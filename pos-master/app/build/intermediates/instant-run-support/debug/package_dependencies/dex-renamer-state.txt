@@ -1,0 +1,13 @@
+#Thu Mar 07 14:43:12 IST 2019
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes4.dex
+base.3=S\:\\pos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c026b2fccb7dd07a4066fd499d496e4e7770bc49
+base.2=S\:\\pos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\achartengine-1.1.0_2513ca7a8ec9f63e13f55c223d92014fead18176
+base.1=S\:\\pos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_829741f3b83c6a8c37eeeb2e844f366a6e4e8182
+base.0=S\:\\pos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-integration-2.0-supportv4_19ab41f73e684332b360740c7c2a61f2bf6c4c80
+file.3=S\:\\pos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c026b2fccb7dd07a4066fd499d496e4e7770bc49\\classes.dex
+file.2=S\:\\pos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\achartengine-1.1.0_2513ca7a8ec9f63e13f55c223d92014fead18176\\classes.dex
+file.1=S\:\\pos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_829741f3b83c6a8c37eeeb2e844f366a6e4e8182\\classes.dex
+file.0=S\:\\pos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-integration-2.0-supportv4_19ab41f73e684332b360740c7c2a61f2bf6c4c80\\classes.dex

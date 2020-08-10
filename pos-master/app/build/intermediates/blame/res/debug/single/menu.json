@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "S:\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_menu.xml",
+        "source": "S:\\pos-master\\app\\src\\main\\res\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "S:\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "S:\\pos-master\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Thu Mar 07 14:43:14 IST 2019
+base.0=S\:\\pos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=S\:\\pos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

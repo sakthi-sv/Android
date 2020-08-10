@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "S:\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "S:\\pos-master\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "S:\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "S:\\pos-master\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    }
+]
